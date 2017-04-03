@@ -1,0 +1,11 @@
+{
+  "base_url": "/user/glirios/",
+  "hostname": "127.0.0.1",
+  "notebook_dir": "/home/glirios",
+  "password": false,
+  "pid": 32302,
+  "port": 46667,
+  "secure": false,
+  "token": "",
+  "url": "http://127.0.0.1:46667/user/glirios/"
+}
